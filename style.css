@@ -5,7 +5,7 @@
     font-family: 'Mulish', sans-serif;
 }
 .container {
-    width: 85%;
+    width: 80%;
     margin: 0 auto;
     padding: 20px 0;
 }
@@ -84,13 +84,45 @@ a {
     font-style: normal;
     font-weight: 400;
 }
-.logo{
+.logo {
     padding: 20px 0;
     display: flex;
     align-items: center;
     justify-content: space-between;
 }
 
+.hero-icon {
+    display: flex;
+    align-items: center;
+    gap: 30px;
+}
+
+.hero-icon ion-icon {
+    width: 40px;
+    height: 40px;
+}
+
+
+.index {
+
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.second-box h2 {
+    color: #19191B;
+    font-family: 'DM Sans', sans-serif;
+    font-size: 50px;
+    font-weight: 700;
+}
+
+.second-box p:last-child {
+    color: #5454D4;
+    font-family: 'DM Sans', sans-serif;
+    font-size: 17px;
+    font-weight: 700;
+}
 
 
 /* YASYN */
