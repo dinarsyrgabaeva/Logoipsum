@@ -103,6 +103,72 @@ a {
 }
 
 
+/* YASYN */
+.metrics{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.metrics-info h1{
+font-size: 50px;
+font-weight: 700;
+line-height: 57px;
+letter-spacing: -1.563158392906189px;
+text-align: left;
+color: rgba(25, 25, 27, 1);
+}
+.metrics-info p{
+    font-family: Mulish;
+font-size: 20px;
+font-weight: 400;
+line-height: 30px;
+letter-spacing: -0.6252632141113281px;
+text-align: left;
+}
+.metrics-info a{
+    font-family: DM Sans;
+font-size: 17px;
+font-weight: 700;
+line-height: 22px;
+letter-spacing: -0.5314737558364868px;
+text-align: left;
+
+}
+.metrics-info {
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}
+.choice{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.itself-choice{
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+}
+.itself-choice h1{
+    font-family: DM Sans;
+font-size: 24px;
+font-weight: 700;
+line-height: 36px;
+letter-spacing: -0.7503160238265991px;
+text-align: center;
+
+}
+.itself-choice p{
+    font-family: Mulish;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: -0.5002105832099915px;
+text-align: center;
+
+}
 .index {
 
     display: flex;
@@ -125,4 +191,3 @@ a {
 }
 
 
-/* YASYN */
